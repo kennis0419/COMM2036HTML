@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About Kennis Chan</title>
+        <meta name="description" content="This website include things that you might want to know about me - Kennis :D">
+        <meta name="author" content="Kennis Chan">
+        <!-- <style>
+            h1 {
+                color: red;
+                font-size: 40px;
+            }
+        </style>-->
+        <link rel="stylesheet" href="style/style.css">
+    </head>
+    <body>
+        <!-- To illustrate the usage of h1 -->
+        <h1 align="center">Things That You Will Never Know About Kennis Without This Website</h1>
+        <!--
+        <h1> Another Heading </h1>
+        -->
+        <h2> <p align="right"></p>By Kennis Chan, a year one Comm student :)</p></h2>
+            <h3>1. Intoduction, not really imortant tho </h3>
+            <p align="left">Greetings! To anyone who might be reading this, the aim of this website is to INTRODUCE Kennis Chan, which is me. Hope you will get to know more about me after spending some of your precious time on this website. Hope you have a nice day haha :D</p>
+             <p align="right">This is a another paragraph!</p>
+             <img src="images/hkbu_and_comm_logo.jpg" width="50%" height="50%">
+
+             <img src="images/hkbu_and_comm_logo.jpg" width="50%" height="50%">
+
+             <img src="images/hkbu_and_comm_logo.jpg" width="50%" height="50%">
+
+        <h2> 2. Backgroud Information </h2>
+            <h3> Something in general </h3>
+            <ul>
+                <li>Sex : F</li>
+                <li>Age : 18</li>
+                <li>Height : 155cm</li>
+                <li>Weight : XXX kg</li>
+            </ul>
+            <h4> Intersest </h4>
+            <ul>
+                <li>Listebing to music</li>
+                <li>Reading novels</li>
+                <li>Drawing</li>
+                <li>Watching random Youtube videos</li>
+            </ul>
+
+        <h2> 3. Something hilarious that I have ever done </h2>
+             <img src="images/hkbu_and_comm_logo.jpg" width="50%" height="50%">
+             <p class="standout"> I  <strong> photoshoped </strong> my face on a meme picture</p>
+
+             <img src="images/hkbu_and_comm_logo.jpg" width="50%" height="50%">
+             <p class="standout"> <s> I almost fell over </s> I nailed it at my first time LMAO</p>
+
+             <img src="images/hkbu_and_comm_logo.jpg" width="50%" height="50%">
+             <p class="standout"> My friends said that I looked like Mario in this pic LOL</p>
+
+
+        
+             <h3> 3.2 Other commonly used tags for formatting text inline </h3>
+           
+
+  <p class="hkbu_info">
+                Hong Kong Baptist University (HKBU) is a publicly funded tertiary liberal arts[1] institution with a Christian education heritage. It was established as Hong Kong Baptist College with the support of American Baptists, who provided both operating and construction funds and personnel to the school in its early years. It became a public college in 1983.
+
+                It became Hong Kong Baptist University in 1994 during the presidency of Dr. Daniel Tse Chi-wai, LLD, GBS, CBE, JP, who succeeded the Founding President, Dr. Lam Chi-fung,[2] as the second president of the University in 1971. After 30 years of services to the University, Dr. Daniel Tse Chi-wai retired in 2001 and Prof. Ng Ching-fai, GBS, was appointed as the third president of the University. In 2010, Prof. Albert Chan Sun-chi assumed office as the fourth president of HKBU. In 2015, Prof. Roland Chin was appointed as the fifth President of HKBU. On 1 February 2021, Prof. Alexander Ping-kong Wai became the sixth President and Vice-Chancellor of HKBU.
+            </p>
+
+            <p class="hkbu_info2">
+                Hong Kong Baptist University (HKBU) is a publicly funded tertiary liberal arts[1] institution with a Christian education heritage. It was established as Hong Kong Baptist College with the support of American Baptists, who provided both operating and construction funds and personnel to the school in its early years. It became a public college in 1983.
+
+                It became Hong Kong Baptist University in 1994 during the presidency of Dr. Daniel Tse Chi-wai, LLD, GBS, CBE, JP, who succeeded the Founding President, Dr. Lam Chi-fung,[2] as the second president of the University in 1971. After 30 years of services to the University, Dr. Daniel Tse Chi-wai retired in 2001 and Prof. Ng Ching-fai, GBS, was appointed as the third president of the University. In 2010, Prof. Albert Chan Sun-chi assumed office as the fourth president of HKBU. In 2015, Prof. Roland Chin was appointed as the fifth President of HKBU. On 1 February 2021, Prof. Alexander Ping-kong Wai became the sixth President and Vice-Chancellor of HKBU.
+            </p>
+
+        <h2> 4. Links </h2>
+            <h3> 4.1 Create a hyperlink </h3>
+            <p>Visit <a href="https://www.hkbu.edu.hk/">HKBU</a> </p>
+            <p>Visit <a href="https://www.hkbu.edu.hk/" target="_blank">HKBU</a> in a new window </p>
+
+        <h2> 5. Media <h2>
+            <h3>5.1 Adding Image </h3>
+            <img src="images/hkbu_and_comm_logo.jpg" width="50%" height="50%">
+
+            <h3>5.2 Adding a Youtube Video </h3>
+            <iframe width="550" height="317" src="https://www.youtube.com/embed/IXVZjK5_Dv8" title="School of Communication Video 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        <h3> 6. Table <h2>
+            <table border="1">
+                <caption>2012-2023 Courses</caption>
+                <tr>
+                  <th>Course Code</th>
+                  <th>Course Title</th>
+                  <th>Detailed Information</th>
+                </tr>
+                <tr>
+                  <td>COMM2036</td>
+                  <td>Media Design and Digital Applications </td>
+                  <td><a href="https://handbook.ar.hkbu.edu.hk/2022-2023/course/COMM2036">link</a></td>
+                </tr>
+                <tr>
+                  <td>COMM2027</td>
+                  <td>AI and Digital Communication</td>
+                  <td><a href="https://handbook.ar.hkbu.edu.hk/2022-2023/course/COMM2036">link</a></td>
+                </tr>
+                <tr>
+                    <td>...</td>
+                    <td>...</td>
+                    <td><a href="">link</a></td>
+                  </tr>
+            </table>
+
+        <p>
+
+        </p>
+    
+    </body>
+
+</html>
+
+
+<ol>
+    <li>Listebing to music</li>
+    <li>Reading novels</li>
+    <li>Drawing</li>
+    <li>Watching random Youtube videos</li>
+</ol>
+
+<ul>
+    <li>To itaticize text: <em> This is italics text</em> </li>
+    <li>To underline text: <u> This is underlined text </u></li>
+    <li>To cross out text: <s> This is crossed out text </s> </li>
+    <li>To highlight text: <mark> This is higlighted text </mark> </li>
+    <li>Create line break: <br> This sentences <br> contains <br> several lines. </li>
+</ul>
