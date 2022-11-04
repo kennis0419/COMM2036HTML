@@ -1,0 +1,44 @@
+h1 {
+    color: red;
+    font-size: 40px;
+}
+/*
+h1, p, ol {
+    color:green;
+}*/
+
+li.standout{
+    color:blue;
+}
+
+p.standout{
+    color:blueviolet;
+}
+
+p[align="center"]:hover{
+    color:chartreuse;
+    font-size: 40px;
+    transform: rotate(45deg);
+}
+
+.hkbu_info{
+    font-family:'Courier New', Courier, monospace;
+    /*background: rgb(255, 0, 0);*/
+    /*background:rgba(255, 0, 0, 0.4);*/
+    background: linear-gradient(rgb(229, 24, 24),rgb(21, 0, 255));
+    background: radial-gradient(red,blue);
+}
+
+.hkbu_info2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1em;
+    font-weight: noraml;
+    font-style: normal;
+    text-decoration:none;
+    text-align: left;
+    line-height: 2em;
+    letter-spacing: 1px;
+    word-spacing: 20px;
+    text-indent: 30px;
+}
+

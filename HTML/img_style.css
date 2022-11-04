@@ -1,0 +1,15 @@
+.round{
+    border-radius: 200px;
+}
+
+.transparent{
+    opacity: 0.1;
+}
+
+.grayscale{
+    filter:grayscale(100%)
+}
+
+.blur{
+    filter: blur(4px);
+}
